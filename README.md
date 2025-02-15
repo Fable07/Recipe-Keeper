@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 **Recipe Keeper** is a mobile application built with **Kotlin** to help users store, organize, and access their favorite recipes effortlessly. Whether you're a home cook or a professional chef, Recipe Keeper ensures that all your recipes are just a tap away.
 
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=mXveonTZoEU))
+
 ## 📱 Features
 ✅ **Save Recipes** – Store unlimited recipes with ingredients & steps.  
 ✅ **Categorize Recipes** – Organize meals by breakfast, lunch, dinner, etc.  
