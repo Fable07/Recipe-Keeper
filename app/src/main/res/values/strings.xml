@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recipe Keeper</string>
+    <string name="title">Recipe Keeper by Jefferson Caragay</string>
+    <string name="recipebtn">Add Recipe Name</string>
+    <string name="ingredientsbtn">Add Ingredients</string>
+    <string name="instructionsbtn">Add Instructions</string>
+    <string name="recipetxt">Enter Recipe Name</string>
+    <string name="ingredientstxt">Enter Ingredients</string>
+    <string name="instructionstxt">Enter Instructions</string>
+    <string name="textbox">Recipe</string>
+    <string name="saverecipe">Save Recipe</string>
+    <string name="clear">Clear All</string>
+
+
+</resources>
